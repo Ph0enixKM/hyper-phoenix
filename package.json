@@ -1,6 +1,6 @@
 {
   "name": "hyper-phoenix",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "![](ss.png)",
   "main": "index.js",
   "scripts": {

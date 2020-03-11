@@ -1,7 +1,7 @@
 {
   "name": "hyper-phoenix",
   "version": "1.1.0",
-  "description": "![](ss.png)",
+  "description": "Hyper Term Phoenix Theme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
